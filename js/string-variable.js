@@ -3,8 +3,8 @@ var username;
 var message;
 
 // assign values to these variables.
-username = 'molly';
-message = 'Hey' + username + 'see our upcoming range';
+username = 'Noel';
+message = 'Hey ' + username + ' see our upcoming range';
 
 // get the element with an id of name.
 var elName = document.getElementById('name');
